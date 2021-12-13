@@ -1,0 +1,137 @@
+
+body{
+
+	background:#e4f9f5;
+    margin:0%;
+    text-align:center;
+    font-size:25px;
+}
+
+/* This is the Hero Section*/
+
+h1{
+   
+    font-family: 'Sacramento', cursive;
+    font-size: 65px;
+}
+
+h3{
+    font-family:'Montserrat', sans-serif;
+    font-weight:lighter;
+   font size: 100px;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 500px;
+    top:1% 0% 0% 0% 0% 0%;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left: 450px;
+    bottom: 250px;
+}
+
+.mountain{
+    position:;
+    bottom: 300px;
+}
+
+/*for profile image*/
+
+.profile-img{
+
+    width:200px;
+    height:200px;
+    margin-top:10%;
+
+}
+
+h2, .subtitle{
+    font-family:'Montserrat', sans-serif; 
+    font-size:20px;
+}
+
+/*Skill Section*/
+
+.skills{
+     margin-top:10%;
+      font-size: 50px;
+}
+
+.row {
+
+    width:40%;
+    text-align:left;
+    margin-bottom:150px;
+    margin-left:30%;
+    margin-top:4%;
+}
+
+.img{
+
+    width:20%;
+
+}
+.skill{
+
+    float:left;
+    margin-right:10%; 
+}
+
+/*THIS is the contact*/
+
+.contact-me{
+
+    font-family:'Montserrat', sans-serif; 
+    margin-top:10%;
+    padding:5% 0;
+    font-size:17px ;   
+}
+
+.btn-first{
+    
+    text-decoration:none;
+    background:teal;
+    color: white;
+    padding: 5px 20px 15px; 
+
+}
+
+.btn-first:hover{
+ 
+ background:#2F4F4F;
+ padding: 5px 20px 15px;
+ color: white;
+ 
+ /*color tomatoe;*/
+}
+
+.contact-text{
+     margin-bottom:5%;
+}
+
+.contact-subtitle{
+
+    font-size: 20px;
+}
+
+/*footer section*/
+
+.footer{
+    
+   padding: 3% 0;
+   background:rgb(26, 167, 167);
+   color: #ffffff;
+
+}
+
+.icon1, .icon2, .icon3{
+   
+    color: #fff;
+}
+
+.icon1:hover, .icon2:hover, .icon3:hover{
+     color: #000;
+}
